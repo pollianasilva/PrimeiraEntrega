@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.cartoes {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-left: 5%;
+}
+
+.allcards {
+    margin: auto;  
+    width: 70%;
+    
+}
+.promocoes, h1 {
+ margin-left: 3%;
+
+}
+
+footer {
+ 
+    text-align: right;
+    color:  #513443;
+    
+}
+
+.media-social {
+    padding-right: 5%;
+}
+
+footer > p {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.card-img-top {
+    height: 400px; 
+    object-fit: cover;
+}

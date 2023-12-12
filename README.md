@@ -14,7 +14,7 @@ Usando HTML / CSS / BOOTSTRAP:
 - Faça as formatações de acordo com a paleta de cores escolhida.<BR><BR>
  DEPLOY: https://beijaflorturismo.netlify.app/
 <div style="display: inline_block" align = "center"><br>
-FERRAMENTAS UTILIZADAS:
+FORAM UTILIZADOS:
 <img align="center" alt="Polly-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
 <img align="center" alt="Polly-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Polly-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
